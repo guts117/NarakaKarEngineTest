@@ -1,6 +1,6 @@
 # NarakaKarEngineTest
 
-**Windowsのアプリです。Linuxにて、実行不可能！！！！**
+**Windows(x64 .exe)のアプリです。Linuxにて、実行不可能！！！！**
 
 ***2022/07/18 の古いサンプルです。***
 
