@@ -3,19 +3,19 @@
 
 **操作方法：**
 
->　WASD  移動
+>　WASD - 移動
 
->　Space 上がる
+>　Space - 上がる
 
->　Right CTRL　下がる
+>　Right CTRL - 下がる
 
->　Spotlight ON/OFF
+>　Spotlight - ON/OFF
 
->　ESC 終了
+>　ESC - 終了
 
->　X ２D流体マウス入力モード
+>　X - ２D流体マウス入力モード
 
->　Z 2D流体煙モード
+>　Z - 2D流体煙モード
 
 **このサンプルーにて、追加した新規機能**
 
