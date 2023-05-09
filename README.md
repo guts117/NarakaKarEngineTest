@@ -1,17 +1,23 @@
 # NarakaKarEngineTest
 
 操作方法：
-WASD  -> 移動
-Space -> 上がる
-Right CTRL->　下がる
-L-> Spotlight ON/OFF
-ESC-> 終了
 
-新規追加ーーーーーーーーーーー
-X -> ２D流体マウス入力モード
-Z -> 2D流体煙モード
+WASD  - 移動
 
-新規実装ーーーーーーーーーーーー
+Space - 上がる
+
+Right CTRL-　下がる
+
+L- Spotlight ON/OFF
+
+ESC- 終了
+
+X - ２D流体マウス入力モード
+
+Z - 2D流体煙モード
+
+このサンプルーにて、追加した新規機能
+
 -２D流体シミュレーション
 -RaymarchingとSDFをしようして、３Dテキスチャーのの中での3D流体シミュレーション
 
